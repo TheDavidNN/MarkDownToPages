@@ -3,8 +3,13 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
-                 start-page="Default-topic.md">
+                 name="Learning Unity"
+                 start-page="1-Unity-Basics.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="1-Unity-Basics.md">
+        <toc-element topic="Unity-Editor.md"/>
+    </toc-element>
+    <toc-element topic="2-Kode-Basics.md">
+        <toc-element topic="Scripts.md"/>
+    </toc-element>
 </instance-profile>
