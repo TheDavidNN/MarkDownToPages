@@ -70,14 +70,14 @@ Hvis du drag-and-dropper et GameObject over på et andet i hierakiet, burde de b
 
 ![ParentChild.gif](ParentChild.gif)
 
-## Skab en spiller karakter
+## Øvelse: Skab en spiller karakter
 
 Prøv at skabe en spiller karakter og en platform, de kan stå på:
 
 1. Skab en cirkel.
 2. Skab en firkant under cirklen og skaler den, så der er plads til spilleren.
-3. Giv spilleren en `Rigidbody 2D`, så den falder ned på platformen.
-4. Giv både karakteren og platformen en `Collider`, så de ikke kan bevæge sig igennem hinanden.
+3. Giv karakteren en `Rigidbody 2D`, så den falder ned på platformen.
+4. Giv både karakteren og platformen en `Collider 2D`, så spilleren kan stå på platformen.
 
 ![BallDrop.gif](BallDrop.gif)
 

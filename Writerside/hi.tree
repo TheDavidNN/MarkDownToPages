@@ -11,5 +11,7 @@
     </toc-element>
     <toc-element topic="2-Kode-Basics.md">
         <toc-element topic="Scripts.md"/>
+        <toc-element topic="Input.md"/>
+        <toc-element topic="If-else.md"/>
     </toc-element>
 </instance-profile>
